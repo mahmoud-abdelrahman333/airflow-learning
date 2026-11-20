@@ -90,10 +90,7 @@ docker compose down
 ```
 
 ## Learning Resource
-
-This repository follows a tutorial by **[Ansh Lamba
-Ansh Lamba]
-**.
+This repository follows a tutorial by **Ansh Lamba**.
 
 - Tutorial: https://youtu.be/IiczxlbQb8s?si=hLicr7PqmTQhvT3x
 
