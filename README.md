@@ -91,9 +91,11 @@ docker compose down
 
 ## Learning Resource
 
-This repository follows a tutorial by **[Instructor's Name]**.
+This repository follows a tutorial by **[Ansh Lamba
+Ansh Lamba
+]**.
 
-- Tutorial: [Add Tutorial Link]
+- Tutorial: [https://youtu.be/IiczxlbQb8s?si=hLicr7PqmTQhvT3x]
 
 The examples are implemented for learning purposes, with experiments and modifications as I progress through the material.
 
